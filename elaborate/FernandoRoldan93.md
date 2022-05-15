@@ -17,7 +17,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Coding at least <b>4 hours a day</b>
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
